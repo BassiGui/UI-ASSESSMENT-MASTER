@@ -1,0 +1,119 @@
+.AccountOverview {
+  background-color: whitesmoke;
+}
+
+.feefo_app{
+  padding: 3rem 15rem;
+}
+
+.feefo_header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.feefo_suport > p:first-child{
+  color: gray;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.feefo_support-links{
+  display: flex;
+}
+
+.feefo_iconS{
+  background-color: #ffd400;
+  width: 3.5rem;
+  height: 3.5rem;
+  padding: 1rem;
+  border-radius: .5rem;
+  margin-right: 1rem;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.feefo_conatainer-contato{
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.feefo_support-name{
+  text-align: left;
+  font-weight: bold;
+}
+.feefo_contato{
+  display: flex;
+  align-items: center;
+}
+
+.feefo_contato svg{
+  margin-right: .5rem;
+}
+
+.feefo_contato span{
+  color: gray;
+}
+
+/* ---------BODY------------------ */
+
+.feefo_body{
+  background-color: white;
+  margin-top: 3rem;
+  border-radius: .2rem;
+}
+
+.feefo_sales{
+  padding:1rem;
+  border-bottom: 1px solid gainsboro;
+}
+
+.feefo_sales-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.feefo_sales-header span{
+  font-weight: bold;
+  margin-left: .5rem;
+}
+.feefo_sales-header svg:first-child{
+  color: cornflowerblue;
+}
+.feefo_sales-header svg:last-child{
+  color: #8080809e;
+}
+
+.feefo_sales-information{
+  color: gray;
+  text-align: left;
+}
+
+.feefo_sales-information span{
+  color: gray;
+  font-weight: bold;
+}
+
+.feefo_boder-right{
+  border-right: 1px solid gainsboro;
+}
+
+.feefo_upload-success{
+  text-align: left;
+  padding: 1rem;
+}
+
+.feefo_upload-success span{
+  color: #43c043;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.feefo_upload-success p{
+  color: #8080809e;
+  text-transform: uppercase;
+  font-weight: bold;
+}
